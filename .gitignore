@@ -1,0 +1,11 @@
+#ignore the following directories:
+
+Intermediate/
+Build/
+DerivedDataCache/
+Saved/
+Binaries/
+
+#Ignore the following files:
+*.db
+Content/StarterContent/
